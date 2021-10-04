@@ -1,0 +1,5 @@
+diophantine equation will mainly tell us about if a solution of a polynomial equation will exist or not.
+
+the only condition here is that gcd of a and b should divide c in the equation: ax+by=c
+
+also the solution must be an integer here.
