@@ -22,4 +22,6 @@ int main (){
 
     int p = gcd(a,b);
     cout<<p<<endl;
+
+   
 }
